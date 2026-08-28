@@ -33,7 +33,3 @@ A collection of C programs covering fundamental Data Structures and Algorithms, 
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
 - Dijkstra's Shortest Path
-
-
-```bash
-gcc filename.c -o program
